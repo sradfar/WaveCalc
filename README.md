@@ -1,7 +1,7 @@
 # WaveCalc
 This repository contains an Excel-based Wave Calculator designed to calculate wave characteristics using the **Airy (linear) wave theory**. Developed initially as a spreadsheet to simplify wave parameter calculations, it has been updated for improved usability. This tool can be applied in coastal and ocean engineering to analyze various wave properties, including wave length, wave celerity, wave breaking parameters, and wave height changes with depth.
 
-![Wave Calculator Screenshot](path_to_image)
+![Wave Calculator Screenshot](https://github.com/sradfar/WaveCalc/blob/main/WaveCalc.jfif)
 
 ## Features
 
